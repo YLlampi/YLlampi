@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @YLlampi
-- 👀 I’m interested in Web Development
-- 🌱 I am currently learning software architecture
+- 👋 Hi, I'm @YLlampi
+- 👀 I'm interested in software architecture.
 
 <!---
 YLlampi/YLlampi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
